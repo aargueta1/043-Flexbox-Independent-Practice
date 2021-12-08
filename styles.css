@@ -1,0 +1,23 @@
+.menu1 {
+   display:flex;
+    justify-content:space-around;
+    background-color: white;
+    margin: 12px;
+    padding: 15px;
+    border: 3px;
+}
+
+.item1 {
+    color: black;
+}
+
+.item2 {
+    color: black;
+}
+
+.item3 {
+    color: black;
+}
+body {
+    background-color: pink;
+}
